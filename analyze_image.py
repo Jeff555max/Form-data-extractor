@@ -1,5 +1,3 @@
-# Используется модель GPT-4.1 (Cascade)
-# Температура генерации: 0.1
 # Системный промпт берётся из файла system_prompt.py
 from dotenv import load_dotenv
 load_dotenv()
